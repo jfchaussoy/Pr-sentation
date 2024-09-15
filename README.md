@@ -1,7 +1,7 @@
 # Pr-sentation
 
 # Jean-François CHAUSSOY  
-**Développeur Web Full Stack | spécialisé JavaScript**  
+** Développeur Web Full Stack | spécialisé JavaScript **  
 📍 **62200 Boulogne sur mer**
 
 ---
